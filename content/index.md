@@ -76,4 +76,3 @@ Zo'n top laat zien dat we de AI-transitie – met al haar kansen en risico's –
 
 Het oorspronkelijke Deltaplan werd ook niet zonder slag of stoot aangenomen—er was initiële weerstand tegen de immense kosten en technische complexiteit. Net als nu vroegen sommigen zich af of de dreiging wel zo urgent was. Het vergde visionair leiderschap van mensen als Johan van Veen, die ver vooruit durfden te kijken. Nu staan we opnieuw voor een existentiële uitdaging die om dezelfde Nederlandse vastberadenheid vraagt.
 
-Een uitgebreide versie van dit artikel is gepubliceerd op [https://aiplan.nl](https://aiplan.nl), alwaar ieder ook wordt uitgenodigd om mee te schrijven aan het plan.
