@@ -1,0 +1,134 @@
+/* Base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #000;
+  background-color: #fff;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Typography */
+h1,
+h2,
+h3 {
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* Links */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 2rem;
+}
+
+/* Sections */
+header {
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+.recommendations ol {
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+  list-style-position: outside;
+}
+
+.recommendations li {
+  margin-bottom: 1.5rem;
+}
+
+.recommendations h3 {
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.recommendations p {
+  margin-left: 0;
+}
+
+.recommendation-content {
+  margin-top: 1rem;
+}
+
+/* Footer */
+footer {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* Add this new section for the highlighted GitHub box */
+.github-box {
+  background-color: #f0f7ff;
+  border: 2px solid #0066cc;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-top: 1.5rem;
+  text-align: center;
+  font-weight: 500;
+}
+
+.github-box a {
+  color: #0066cc;
+  font-weight: bold;
+}
+
+.github-box a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .container {
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+  }
+}
