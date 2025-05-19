@@ -24,6 +24,10 @@ Probeer een aanbeveling zo te schrijven dat deze voldoet aan de SMART criteria:
 - **Relevant**: Relevant voor het doel van het AI Plan
 - **Tijdgebonden**: Met een duidelijk tijdspad
 
+## Markdown workflow
+
+Alle teksten voor de website staan in de map `content/` als Markdown-bestanden. Met het commando `npm run build` worden deze bestanden omgezet naar statische HTML-pagina's. GitHub Pages kan deze build stap uitvoeren zodat automatisch een bijgewerkte site wordt gepubliceerd.
+
 ## Schrijf mee aan het AI Plan via GitHub
 
 Door samen te werken kunnen we ervoor zorgen dat Nederland klaar is voor de komst van superintelligentie.
