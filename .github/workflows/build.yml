@@ -23,8 +23,9 @@ jobs:
           node-version: 18
       - run: npm ci
       - run: npm run build
-      - uses: actions/upload-pages-artifact@v1
+      - uses: actions/upload-artifact@v4
         with:
+          name: github-pages
           path: .
   deploy:
     needs: build
