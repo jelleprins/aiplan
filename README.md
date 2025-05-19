@@ -2,6 +2,8 @@
 
 Een open-source website voor het Nederlandse AI Deltaplan. Deze website toont de 10 aanbevelingen voor het voorbereiden van Nederland op de komst van superintelligentie.
 
+Ga naar https://www.aiplan.nl om het plan te lezen.
+
 ## Bijdragen aan het AI Plan
 
 Wij nodigen iedereen uit om bij te dragen aan het AI Plan door nieuwe ideeën en aanbevelingen voor te stellen via GitHub issues.
