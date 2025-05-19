@@ -16,7 +16,7 @@ Wij nodigen iedereen uit om bij te dragen aan het AI Plan door nieuwe ideeën en
 
 ### Richtlijnen voor aanbevelingen
 
-Probeer een aanbeveling zo the schrijven dat deze voldoet aan de SMART criterea:
+Probeer een aanbeveling zo te schrijven dat deze voldoet aan de SMART criteria:
 
 - **Specifiek**: Duidelijk en concreet geformuleerd
 - **Meetbaar**: Voortgang moet kunnen worden gemeten
